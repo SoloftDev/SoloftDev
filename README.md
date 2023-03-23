@@ -1,3 +1,12 @@
+<div align="center">
+    <img
+        src="https://lanyard-profile-readme.vercel.app/api/919841186246692886?theme=dark&bg=161b22&animated=false&hideDiscrim=true&borderRadius=5px&idleMessage=Probably%20doing%20something%20else..."
+        href="https://akio-dev.ml"
+        alt="https://akio-dev.ml"
+        width="500"
+    />
+</div>
+
 # SoloftDev HUB
 - a student and a full-stack developer based on Indonesia passion for making digital stuff he wants. When not making project he usually plays a Dino Chrome Games.
 
