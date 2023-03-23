@@ -1,8 +1,8 @@
 <div align="center">
     <img
-        src="https://lanyard-profile-readme.vercel.app/api/919841186246692886?theme=dark&bg=161b22&animated=false&hideDiscrim=true&borderRadius=5px&idleMessage=Probably%20doing%20something%20else..."
-        href="https://akio-dev.ml"
-        alt="https://akio-dev.ml"
+        src="https://lanyard-profile-readme.vercel.app/api/478580881238392853?theme=dark&bg=161b22&animated=false&hideDiscrim=true&borderRadius=5px&idleMessage=Hello%20How%20Are%20You?"
+        href="https://solo-dev.xyz"
+        alt="https://solo-dev.xyz"
         width="500"
     />
 </div>
